@@ -1,2 +1,3 @@
 # MultipointGeostatisticalSimulation
 我学习地质统计的知识应当被转化为代码
+当前所写的代码是节点群直接采样法(bunch direct sampling)
