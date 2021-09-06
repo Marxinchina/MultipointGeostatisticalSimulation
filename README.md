@@ -1,0 +1,2 @@
+# MultipointGeostatisticalSimulation
+我学习地质统计的知识应当被转化为代码
